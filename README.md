@@ -16,7 +16,7 @@
   <img src="https://i.imgur.com/t69EjCO.png" width="32%" alt="SUI" style="margin: 10px;" />
   <img src="https://i.imgur.com/VC2JCxE.png" width="32%" alt="SEI" style="margin: 10px;" />
   <img src="https://i.imgur.com/sSxsQpV.png" width="32%" alt="KYVE" style="margin: 10px;" />
-  <img src="https://i.imgur.com/E5a7Oya.png" width="32%" alt="MASSA" style="margin: 10px;" />
+  <img src="https://i.imgur.com/iUNNsCF.png" width="32%" alt="MASSA" style="margin: 10px;" />
 </p>
 
 
