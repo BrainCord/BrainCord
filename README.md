@@ -14,6 +14,9 @@
   <img src="https://i.imgur.com/5BvTjVQ.png" width="32%" alt="Starknet" style="margin: 10px;" />
   <img src="https://i.imgur.com/Iard6nz.png" width="32%" alt="Aleo" style="margin: 10px;" />
   <img src="https://i.imgur.com/t69EjCO.png" width="32%" alt="SUI" style="margin: 10px;" />
+  <img src="https://i.imgur.com/VC2JCxE.png" width="32%" alt="SEI" style="margin: 10px;" />
+  <img src="https://i.imgur.com/sSxsQpV.png" width="32%" alt="KYVE" style="margin: 10px;" />
+  <img src="https://i.imgur.com/E5a7Oya.png" width="32%" alt="MASSA" style="margin: 10px;" />
 </p>
 
 
