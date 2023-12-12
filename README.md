@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is OWL. I've been working with testnets for over two years as a validator for PoS/PoW. I promise constant monitoring, great uptime, and quick updates. Passionate about working with testnets, understanding how blockchains tick, and designing user-friendly interfaces. I love finding and fixing bugs to make things run smoothly. 
 
 
 ## <center>I took part in these testnets & incentivized testnets</center>
@@ -12,7 +12,7 @@
   <img src="https://i.imgur.com/hidovhy.png" width="32%" alt="IronFish" style="margin: 10px;" />
   <img src="https://i.imgur.com/q3py7kL.png" width="32%" alt="Fleek" style="margin: 10px;" />
 </p>
----
+
 
 
 
