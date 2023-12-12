@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[<img src='https://i.imgur.com/oLBRhrc.png' alt='CHAINFLIP'  width='100%'>](https://blocks-perseverance.chainflip.io/validators/cFL44KqTAhdDULrMYtBBMJRqvbC5PD4HVvmshr3bwF7tc13XF) 
+[<img src='https://i.imgur.com/oLBRhrc.png' alt='CHAINFLIP'  width='27.5%'>](https://blocks-perseverance.chainflip.io/validators/cFL44KqTAhdDULrMYtBBMJRqvbC5PD4HVvmshr3bwF7tc13XF) 
  
-[<img src='https://i.imgur.com/dzMUUk7.png' alt='FORTA'  width='100%'>]
+[<img src='https://i.imgur.com/dzMUUk7.png' alt='FORTA'  width='27.5%'>]
 
-[<img src='https://i.imgur.com/P8m4RaK.png' alt='NAMADA'  width='100%'>]
+[<img src='https://i.imgur.com/P8m4RaK.png' alt='NAMADA'  width='27.5%'>]
 
 <!--
 **BrainCord/BrainCord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
