@@ -6,6 +6,12 @@
   <img src="https://i.imgur.com/P8m4RaK.png" width="32%" alt="Namada" />
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/oLBRhrc.png" width="32%" alt="Chainflip" style="margin-right: 2%;" />
+  <img src="https://i.imgur.com/dzMUUk7.png" width="32%" alt="Forta" style="margin-right: 2%;" />
+  <img src="https://i.imgur.com/P8m4RaK.png" width="32%" alt="Namada" style="margin-right: 2%;" />
+</p>
+
 
 <!--
 **BrainCord/BrainCord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
