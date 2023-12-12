@@ -1,7 +1,7 @@
 ### Hi there! My name is OWL. I've been working with testnets for over two years as a validator for PoS/PoW. I promise <u>constant monitoring</u>, <u>great uptime</u>, and <u>quick updates</u>. 
 ### Passionate about working with testnets, understanding how blockchains tick, and designing user-friendly interfaces. I love finding and fixing bugs to make things run smoothly. 
 
-## <center>I took part in these testnets & incentivized testnets</center>
+## <center>I took part in these testnets & incentivized testnets 👇</center>
 <p align="center">
   <a href="https://blocks-perseverance.chainflip.io/validators/cFL44KqTAhdDULrMYtBBMJRqvbC5PD4HVvmshr3bwF7tc13XF" target="_blank">
     <img src="https://i.imgur.com/oLBRhrc.png" width="32%" alt="Chainflip" style="margin: 10px;" />
