@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-<center>Participated in</center>
+## <center>Participated in</center>
+---
 ---
 <p align="center">
   <a href="https://blocks-perseverance.chainflip.io/validators/cFL44KqTAhdDULrMYtBBMJRqvbC5PD4HVvmshr3bwF7tc13XF" target="_blank">
