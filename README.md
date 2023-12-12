@@ -2,7 +2,6 @@
 
 
 <center>Participated in</center>
-
 ---
 <p align="center">
   <a href="https://blocks-perseverance.chainflip.io/validators/cFL44KqTAhdDULrMYtBBMJRqvbC5PD4HVvmshr3bwF7tc13XF" target="_blank">
@@ -14,7 +13,7 @@
   <img src="https://i.imgur.com/hidovhy.png" width="32%" alt="IronFish" style="margin: 10px;" />
   <img src="https://i.imgur.com/q3py7kL.png" width="32%" alt="Fleek" style="margin: 10px;" />
 </p>
-
+---
 
 
 
