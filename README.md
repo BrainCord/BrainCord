@@ -1,5 +1,5 @@
-### Hi there! My name is OWL. I've been working with testnets for over three years as a validator for PoS/PoW. I promise <u>constant monitoring</u>, <u>great uptime</u>, and <u>quick updates</u>. 
-### Passionate about working with testnets, understanding how blockchains tick, and designing user-friendly interfaces. I love finding and fixing bugs to make things run smoothly. 
+### Hi there! My name is Owl Genesis. 
+### Providing secure validation services for Proof of Stake networks. Continuously actively participate in discussions, DAO voting and contributing daily to networks development. Leveraging high-quality infrastructure and offering exceptional support 24/7
 
 ## <center>I took part in these testnets & incentivized testnets 👇</center>
 <p align="center">
